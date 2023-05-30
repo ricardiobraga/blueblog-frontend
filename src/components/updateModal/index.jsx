@@ -85,7 +85,7 @@ export default function UpdateModal(props) {
                             <div className={styles.modalContent}>
                                 <h1 className={styles.title}>Edit item </h1>
                                 <div className={styles.inputContainer}>
-                                    <InputComp title="Title" setTitle={setTitle} handleInput={handleInput} placeholder="Hello world" />
+                                    <InputComp title="Title" setInputValue={setTitle} handleInput={handleInput} placeholder="Hello world" />
                                     <TextAreaComp title="Content" setPostContent={setPostContent} handleTextarea={handleTextarea} placeholder="Content here" />
                                 </div>
                                 <div className={styles.btnContainer}>
