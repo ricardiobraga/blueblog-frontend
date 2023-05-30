@@ -1,0 +1,48 @@
+.signupContainer {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.active {
+    background: #000;
+}
+
+.signupSection {
+    width: 50rem;
+    height: 20.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+
+    padding: 2.4rem;
+    border-radius: 1.6rem;
+    border: .1rem solid var(--color-grey);
+    background-color: var(--color-white);
+}
+
+
+.title{
+    align-self: self-start;
+    font-weight: 700;
+    font-size: 2.2rem;
+    line-height: 2.57rem;
+    
+}
+
+@media (max-width: 48rem) {
+    .signupContainer {
+        padding: 0 2.4rem;
+        width: 39rem;
+        
+    }
+
+    .title {
+        font-size: 2rem;
+    }
+  
+    
+  }
