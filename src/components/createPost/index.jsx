@@ -43,7 +43,7 @@ export default function CreatePost(props) {
     async function handleSubmit(getposts) {
 
         if (inputCheck.inputIsActive && inputCheck.textAreaIsActive) {
-            const res = await fetch(process.env.DB_HOST, {
+            const res = await fetch(`${process.env.DB_HOST}`, {
                 method: 'POST',
                 body: JSON.stringify({
                     "username": props.usernameQuery,
