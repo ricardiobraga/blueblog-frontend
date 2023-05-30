@@ -1,4 +1,4 @@
-# The Blu Blog CRUD
+# The Blue Blog CRUD
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/ricardiobraga/blueblog-frontend/blob/main/LICENSE.md) 
 
 # SOBRE
