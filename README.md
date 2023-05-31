@@ -1,12 +1,12 @@
-# CODELEAP TEST CRUD
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/ricardiobraga/codeleap-frontend-test/blob/main/LICENCE) 
+# The Blu Blog CRUD
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/ricardiobraga/blueblog-frontend/blob/main/LICENSE.md) 
 
-# ABOUT
+# SOBRE
 
-[https://vercel.com/ricardiobraga/codeleap-test](https://codeleap-test-psi.vercel.app/)
+[https://blueblog-frontend.vercel.app/](https://blueblog-frontend.vercel.app/)
 
-This is a project developed as a test for a junior frontend developer at the company Codeleap.
-The proposal is a blog that lists posts and allows the creation, editing, and deletion of content made by the user who is logged in.
+Esse projeto inicialmente foi feito para teste de uma vaga de frontend. A partir de um layout feito no Figma e uma API que foram fornecidos pela empresa eu desenvolvi esta aplicação.
+Como tenho focado meus estudos em Java e Springboot desde o começo de 2023, decidi aproveitar esse frontend e recriar o backend que foi fornecido pela empresa.
 
 ## Layout mobile
 ![Mobile1](https://github.com/ricardiobraga/codeleap-frontend-test/blob/main/src/public/assets/layout-mobile-blog.png)  ![Mobile2](https://github.com/ricardiobraga/codeleap-frontend-test/blob/main/src/public/assets/layout-mobile-home.png)
