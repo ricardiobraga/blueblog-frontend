@@ -9,11 +9,11 @@ Esse projeto inicialmente foi feito para teste de uma vaga de frontend. A partir
 Como tenho focado meus estudos em Java e Springboot desde o começo de 2023, decidi aproveitar esse frontend e recriar o backend que foi fornecido pela empresa.
 
 ## Layout mobile
-![Mobile1](https://github.com/ricardiobraga/codeleap-frontend-test/blob/main/src/public/assets/layout-mobile-blog.png)  ![Mobile2](https://github.com/ricardiobraga/codeleap-frontend-test/blob/main/src/public/assets/layout-mobile-home.png)
+![Mobile1](https://github.com/ricardiobraga/blueblog-frontend-test/blob/main/src/public/assets/layout-mobile-blog.png)  ![Mobile2](https://github.com/ricardiobraga/blueblog-frontend-test/blob/main/src/public/assets/layout-mobile-home.png)
 
 ## Layout web
-![Web1](https://github.com/ricardiobraga/codeleap-frontend-test/blob/main/src/public/assets/layout-home.png)
-![Web1](https://github.com/ricardiobraga/codeleap-frontend-test/blob/main/src/public/assets/layout-blog.png)
+![Web1](https://github.com/ricardiobraga/blueblog-frontend-test/blob/main/src/public/assets/layout-home.png)
+![Web1](https://github.com/ricardiobraga/blueblog-frontend-test/blob/main/src/public/assets/layout-blog.png)
 
 # TECHNOLOGIES
 - NextJS
