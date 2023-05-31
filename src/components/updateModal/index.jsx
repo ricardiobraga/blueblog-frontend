@@ -48,7 +48,7 @@ export default function UpdateModal(props) {
 
         if (inputCheck.inputIsActive && inputCheck.textAreaIsActive) {
 
-            const res = await fetch(`${process.env.DB_HOST}/${toggleButton.id}/`, {
+            const res = await fetch(`${process.env.DB_HOST}/${toggleButton.id}`, {
                 method: 'PATCH',
                 body: JSON.stringify({                    
                     "title": title,
